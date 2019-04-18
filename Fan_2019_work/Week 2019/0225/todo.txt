@@ -1,0 +1,13 @@
+Perf
+MP reduction
+CT slide
+MTF opencv
+
+FGEO
+1. New SW release which include raw input as default
+2. Explicitly output test metrics into clifford
+3. Improve on correlation
+4. Test CT reduction when to cut in landscape capture ONLY
+
+RGEO
+1.
